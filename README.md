@@ -3,7 +3,7 @@
 - I'm a MERN stack developer experienced in making real world projects for startups. 💹💲
 - 📫 How to reach me: amaan_ahmad_@outlook.com
 - 📱 Wanna have a casual chat? DM me on instagram @amaan0503
-- 🤝 Connect with me on linkedin.com/in/amaan05
+- 🤝 Connect with me on https://linkedin.com/in/amaan05
 - 🌐 My website: https://amaanahmad.web.app
 <!--
 **amaan-ahmad/amaan-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
