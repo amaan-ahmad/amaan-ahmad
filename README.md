@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/amaan-ahmad/amaan-ahmad.svg)](http://hits.dwyl.com/amaan-ahmad/amaan-ahmad)
+
 ## here is a little bit about me..
 - I'm a MERN stack developer experienced in making real world projects for startups. 💹💲
 - 📫 How to reach me: amaan_ahmad_@outlook.com
