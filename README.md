@@ -1,4 +1,4 @@
-### Hi there 👋 [![HitCount](http://hits.dwyl.com/amaan-ahmad/amaan-ahmad.svg)](http://hits.dwyl.com/amaan-ahmad/amaan-ahmad)
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/amaan-ahmad/amaan-ahmad.svg)](10)
 
 ## here is a little bit about me..
 - I'm a MERN stack developer experienced in making real world projects for startups. 💹💲
