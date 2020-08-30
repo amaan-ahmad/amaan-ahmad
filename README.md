@@ -12,7 +12,7 @@
 <p align="center">
   <br/>
   <a title="Portfolio" href="https://amaan.codes/">
-    <img src="https://avatars2.githubusercontent.com/u/34341671?s=450&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4" width="50" height="50" />
+    <img src="https://avatars2.githubusercontent.com/u/27350808?s=460&u=4be620a0eafc45726959150ba7363f61d17d932c&v=4" width="50" height="50" />
   </a>
   <a title="DEV.to" href="https://dev.to/amaanahmad">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
