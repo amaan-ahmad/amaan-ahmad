@@ -23,7 +23,7 @@
   <a title="Email" href="mailto:amaan_ahmad_@outlook.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
   </a>
-  <a title="LinkedIn" href="https://linkedin.com/in/amaan05">
+  <a title="LinkedIn" href="https://www.linkedin.com/in/amaan05/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   <br/>
