@@ -27,8 +27,8 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-ahmad1&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-ahmad1&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan-ahmad&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-ahmad&layout=compact" height="170px">
 </p>
 
 
