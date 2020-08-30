@@ -5,7 +5,7 @@
 - 📫 How to reach me: amaan_ahmad_@outlook.com
 - 📱 Wanna have a casual chat? DM me on instagram @amaan0503
 - 🤝 Connect with me on https://linkedin.com/in/amaan05
-- 🌐 My website: https://amaanahmad.web.app
+- 🌐 My website: https://amaan.codes
 <!--
 **amaan-ahmad/amaan-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
