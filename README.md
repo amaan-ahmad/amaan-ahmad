@@ -3,7 +3,7 @@
 ## here is a little bit about me..
 - I'm a MERN stack developer experienced in making real world projects for startups. 💹💲
 - 📫 How to reach me: amaan_ahmad_@outlook.com
-- 📱 Wanna have a casual chat? DM me on instagram @amaan0503
+- 📱 Wanna have a casual chat? DM me on twitter @amaancodes
 - 🤝 Connect with me on https://linkedin.com/in/amaan05
 - 🌐 My website: https://amaan.codes
 
