@@ -8,6 +8,8 @@
 - 🤝 Connect with me on https://linkedin.com/in/amaan05
 - 🌐 My website: https://amaan.codes
 
+![Profile-Views-Count](https://profile-counter.glitch.me/amaan-ahmad/count.svg)
+
 <p align="center">
   <br/>
   <a title="Portfolio" href="https://amaan.codes/">
