@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ## here is a little bit about me..
-- I'm a MERN stack developer experienced in making real world projects for startups. 💹💲
+- I'm a Fullstack stack developer experienced in making real world projects for startups. 💹💲
 - 🌱 Love to contribute to Open Source.
+- 🔨 Building [NADOS](https://nados.io/) at Pepcoding.
 - 📫 How to reach me: amaan_ahmad_@outlook.com
 - 📱  Wanna have a casual chat? DM me on twitter @amaancodes
 - 🤝 Connect with me on https://linkedin.com/in/amaan05
 - 🌐 My website: https://amaan.codes
+- Another profile [@amaan-pep](https://github.com/amaan-pep)
 
 ![Profile-Views-Count](https://profile-counter.glitch.me/amaan-ahmad/count.svg)
 
