@@ -3,7 +3,8 @@
 ## here is a little bit about me..
 - I'm a Fullstack stack developer experienced in making real world projects for startups. 💹💲
 - 🌱 Love to contribute to Open Source.
-- 🔨 Building [NADOS](https://nados.io/) at Pepcoding.
+- 🔨 Built [NADOS](https://nados.io/) at Pepcoding.
+- 🏗️ Building backend at [@tortoiseclub](https://github.com/tortoiseclub/). Checkout [this](https://tortoise.pro)
 - 📫 How to reach me: amaan_ahmad_@outlook.com
 - 📱  Wanna have a casual chat? DM me on twitter @amaancodes
 - 🤝 Connect with me on https://linkedin.com/in/amaan05
