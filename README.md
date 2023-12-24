@@ -7,7 +7,7 @@
 
 ⚐ Based in India
 
-ϟ Currently Building SaaS for fintech @tortoiseclub 
+ϟ Currently Building Employee Benefits Platform @tortoiseclub 
 
 ϟ Recently Won hackCBS 5.0 Best Blockchain hack award
 
